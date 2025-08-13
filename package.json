@@ -1,0 +1,30 @@
+{
+  "name": "curso_orm_node_alura",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diego-brit0/curso_ORM_Node_alura.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "4.18.2"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.33.0",
+    "eslint": "^8.46.0",
+    "nodemon": "3.0.1"
+  },
+  "bugs": {
+    "url": "https://github.com/diego-brit0/curso_ORM_Node_alura/issues"
+  },
+  "homepage": "https://github.com/diego-brit0/curso_ORM_Node_alura#readme"
+}
